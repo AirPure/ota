@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-https",
+    "version": 1.0,
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "bin": "/AirPure/ota/main/air_pure.bin"
+}
