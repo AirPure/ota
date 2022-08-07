@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-https",
-    "version": 5.0,
+    "version": 8.0,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/AirPure/ota/main/air_pure.bin"
+    "bin": "/AirPure/ota/main/firmware.bin"
 }
